@@ -1,0 +1,162 @@
+D:\Learning Programming\files\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.exe
+D:\Learning Programming\files\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.deps.json
+D:\Learning Programming\files\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.runtimeconfig.json
+D:\Learning Programming\files\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.dll
+D:\Learning Programming\files\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.pdb
+D:\Learning Programming\files\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.AssemblyReference.cache
+D:\Learning Programming\files\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Form1.resources
+D:\Learning Programming\files\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.GenerateResource.cache
+D:\Learning Programming\files\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Programming\files\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfoInputs.cache
+D:\Learning Programming\files\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfo.cs
+D:\Learning Programming\files\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.CoreCompileInputs.cache
+D:\Learning Programming\files\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.dll
+D:\Learning Programming\files\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\refint\Image_Editor.dll
+D:\Learning Programming\files\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.pdb
+D:\Learning Programming\files\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.genruntimeconfig.cache
+D:\Learning Programming\files\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\ref\Image_Editor.dll
+D:\programing shit\File org project\Test\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.exe
+D:\programing shit\File org project\Test\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.deps.json
+D:\programing shit\File org project\Test\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.runtimeconfig.json
+D:\programing shit\File org project\Test\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.dll
+D:\programing shit\File org project\Test\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.pdb
+D:\programing shit\File org project\Test\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Form1.resources
+D:\programing shit\File org project\Test\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.GenerateResource.cache
+D:\programing shit\File org project\Test\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing shit\File org project\Test\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfoInputs.cache
+D:\programing shit\File org project\Test\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfo.cs
+D:\programing shit\File org project\Test\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.CoreCompileInputs.cache
+D:\programing shit\File org project\Test\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.dll
+D:\programing shit\File org project\Test\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\refint\Image_Editor.dll
+D:\programing shit\File org project\Test\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.pdb
+D:\programing shit\File org project\Test\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.genruntimeconfig.cache
+D:\programing shit\File org project\Test\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\ref\Image_Editor.dll
+C:\Users\momen\OneDrive\Desktop\FIle\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Form1.resources
+C:\Users\momen\OneDrive\Desktop\FIle\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Rotate.resources
+C:\Users\momen\OneDrive\Desktop\FIle\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.GenerateResource.cache
+C:\Users\momen\OneDrive\Desktop\FIle\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\momen\OneDrive\Desktop\FIle\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfoInputs.cache
+C:\Users\momen\OneDrive\Desktop\FIle\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfo.cs
+C:\Users\momen\OneDrive\Desktop\FIle\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.CoreCompileInputs.cache
+C:\Users\momen\OneDrive\Desktop\FIle\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.dll
+C:\Users\momen\OneDrive\Desktop\FIle\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\refint\Image_Editor.dll
+C:\Users\momen\OneDrive\Desktop\FIle\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.pdb
+C:\Users\momen\OneDrive\Desktop\FIle\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.exe
+C:\Users\momen\OneDrive\Desktop\FIle\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.deps.json
+C:\Users\momen\OneDrive\Desktop\FIle\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.runtimeconfig.json
+C:\Users\momen\OneDrive\Desktop\FIle\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.dll
+C:\Users\momen\OneDrive\Desktop\FIle\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.pdb
+C:\Users\momen\OneDrive\Desktop\FIle\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.genruntimeconfig.cache
+C:\Users\momen\OneDrive\Desktop\FIle\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\ref\Image_Editor.dll
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.exe
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.deps.json
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.runtimeconfig.json
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.dll
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.pdb
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Form1.resources
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Rotate.resources
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.GenerateResource.cache
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfoInputs.cache
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfo.cs
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.CoreCompileInputs.cache
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.dll
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\refint\Image_Editor.dll
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.pdb
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.genruntimeconfig.cache
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\ref\Image_Editor.dll
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.exe
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.deps.json
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.runtimeconfig.json
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.dll
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.pdb
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.AssemblyReference.cache
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Form1.resources
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Rotate.resources
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.GenerateResource.cache
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfoInputs.cache
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfo.cs
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.CoreCompileInputs.cache
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.dll
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\refint\Image_Editor.dll
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.pdb
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.genruntimeconfig.cache
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\ref\Image_Editor.dll
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.exe
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.deps.json
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.runtimeconfig.json
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.dll
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.pdb
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Form1.resources
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Rotate.resources
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.GenerateResource.cache
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfoInputs.cache
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfo.cs
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.CoreCompileInputs.cache
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.dll
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\refint\Image_Editor.dll
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.pdb
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.genruntimeconfig.cache
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\ref\Image_Editor.dll
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Properties.Resources.resources
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.exe
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.deps.json
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.runtimeconfig.json
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.dll
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.pdb
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Form1.resources
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Form2.resources
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Properties.Resources.resources
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Rotate.resources
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.GenerateResource.cache
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfoInputs.cache
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfo.cs
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.CoreCompileInputs.cache
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.dll
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\refint\Image_Editor.dll
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.pdb
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.genruntimeconfig.cache
+C:\Users\etc\Documents\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\ref\Image_Editor.dll
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.exe
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.deps.json
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.runtimeconfig.json
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.dll
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.pdb
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.AssemblyReference.cache
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Form1.resources
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Form2.resources
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Properties.Resources.resources
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Rotate.resources
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.GenerateResource.cache
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfoInputs.cache
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfo.cs
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.CoreCompileInputs.cache
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.dll
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\refint\Image_Editor.dll
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.pdb
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.genruntimeconfig.cache
+C:\Users\Youssef\Downloads\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\ref\Image_Editor.dll
+D:\programing shit\File org project\Ttest\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Form2.resources
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.exe
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.deps.json
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.runtimeconfig.json
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.dll
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\bin\Debug\net7.0-windows\Image_Editor.pdb
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Form1.resources
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Form2.resources
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Properties.Resources.resources
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.Rotate.resources
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.GenerateResource.cache
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfoInputs.cache
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.AssemblyInfo.cs
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.csproj.CoreCompileInputs.cache
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.dll
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\refint\Image_Editor.dll
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.pdb
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\Image_Editor.genruntimeconfig.cache
+D:\Project_File\Image_Editor\Image_Editor\Image_Editor\Image_Editor\obj\Debug\net7.0-windows\ref\Image_Editor.dll

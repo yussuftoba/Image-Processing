@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LhrnmEBNMro=",
+  "success": true,
+  "projectFilePath": "D:\\Project_File\\Image_Editor\\Image_Editor\\Image_Editor\\Image_Editor\\Image_Editor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yussu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\yussu\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\yussu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\yussu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
